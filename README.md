@@ -26,8 +26,11 @@ Our team will review your submission based on the following criteria:
 
 ## Submission Instructions
 
+> **Warning** \
+> If you stumbled upon this repository without being contacted by a member of our team, please do not submit a solution. We do not accept unsolicited applications, but we encourage you to check out our [careers page](https://technative.gr/jobs-at-technative/) for more information about our open positions or send us an email at [jobs@technative.gr](mailto:jobs@technative.gr).
+
 1. Create a private repository on GitHub to store your solution.
 2. Push your changes to the private repository.
-3. Add [@iamnapo](https://github.com/iamnapo) and [@Doberjohn](https://github.com/Doberjohn) as collaborators to your private repository for review.
+3. Add [@iamnapo](https://github.com/iamnapo) or [@Doberjohn](https://github.com/Doberjohn) as collaborators to your private repository for review.
 
 Good luck, and happy coding!
