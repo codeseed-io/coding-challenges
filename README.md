@@ -1,10 +1,16 @@
-![TechNative Logo](https://technative.gr/wp-content/uploads/2023/02/TechNative_SoSe_colour_RGB@4x-100-scaled.jpg)
+<p align="center">
+	<img
+		src="https://images.ctfassets.net/ynb9m39kb3he/5CczP1UeHItbQPNjd5hzBu/7739fe9c4fb340323c941583dd778695/codeseed-logo-dark.svg"
+		alt="Code Seed Logo"
+		style="width: 80%"
+	/>
+</p>
 
-# TechNative Code Challenges Repository
+# Code Seed Code Challenges Repository
 
-> Welcome to the TechNative Code Challenges repository! 🙌
+> Welcome to the Code Seed Code Challenges repository! 🙌
 
-This repository contains a collection of coding challenges designed to help us identify the best talent for our software development team. We encourage you to showcase your best work, as it helps us better understand your potential as a candidate for TechNative.
+This repository contains a collection of coding challenges designed to help us identify the best talent for our software development team. We encourage you to showcase your best work, as it helps us better understand your potential as a candidate for Code Seed.
 
 ## Repository Structure
 
@@ -26,8 +32,8 @@ Our team will review your submission based on the following criteria:
 
 ## Submission Instructions
 
-> **Warning** \
-> If you stumbled upon this repository without being contacted by a member of our team, please do not submit a solution. We do not accept unsolicited applications, but we encourage you to check out our [careers page](https://technative.gr/jobs-at-technative/) for more information about our open positions or send us an email at [jobs@technative.gr](mailto:jobs@technative.gr).
+> [!IMPORTANT]
+> If you stumbled upon this repository without being contacted by a member of our team, please do not submit a solution. We do not accept unsolicited applications, but, we encourage you send us an email at [jobs@codeseed.gr](mailto:jobs@codeseed.gr).
 
 1. Create a private repository on GitHub to store your solution.
 2. Push your changes to the private repository.

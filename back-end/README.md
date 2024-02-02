@@ -1,4 +1,4 @@
-# TechNative Backend Developer exercise
+# Code Seed Backend Developer exercise
 
 > The goal is to develop a simpler [Github API](https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28) emulator server
 

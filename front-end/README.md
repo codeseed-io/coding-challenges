@@ -1,4 +1,4 @@
-# TechNative Frontend Developer Exercise
+# Code Seed Frontend Developer Exercise
 
 > The objective of this exercise is to create a GitHub repository search application.
 
